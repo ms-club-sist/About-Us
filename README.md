@@ -12,9 +12,15 @@ This repository serves as the central hub for all things related to the Microsof
 - **`EVENTS/`**: Discover past and upcoming club events, workshops, and hackathons.  
 - **`PROJECTS/`**: Explore exciting projects developed by our members.  
 - **`RESOURCES/`**: Access valuable learning materials, templates, and tools.  
-- **`MEMBERS/`**: Get to know our vibrant community members (optional section).  
-- **`CONTRIBUTING.md`**: Learn how you can contribute to this repository.  
-- **`CODE_OF_CONDUCT.md`**: Understand our community guidelines.  
+- **`MEMBERS/`**: Get to know our vibrant community members.  
+- **`CONTRIBUTING.txt`**: [Contributing Guidelines](contributing.txt)  
+- **`CODE_OF_CONDUCT.txt`**: [Community Code of Conduct](code_of_conduct.txt)  
+- **`LICENSE`**: [View License](license.txt)  
+- **`AI_ML_Team.txt`**: [AI & ML Team](ai_ml_team.txt)  
+- **`Cloud_DevOps_Team.txt`**: [Cloud & DevOps Team](cloud_dev_ops_team.txt)  
+- **`Cybersecurity_Team.txt`**: [Cybersecurity Team](cybersecurity_team.txt)  
+- **`Data_Science_Team.txt`**: [Data Science Team](data_science_team.txt)  
+- **`Members.txt`**: [View Members](members.txt)
 
 ---
 
@@ -55,6 +61,6 @@ Stay updated with our latest activities and announcements:
 
 ## 🤝 Get Involved!
 
-**Ready to dive in?** Check out our `CONTRIBUTING.md` guide to see how you can start contributing to this repository or reach out to us through our social channels.
+**Ready to dive in?** Check out our [Contributing Guide](contributing.txt) to see how you can start contributing to this repository or reach out to us through our social channels.
 
 We look forward to having you!
