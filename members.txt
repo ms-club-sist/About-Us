@@ -1,0 +1,50 @@
+# 👥 Club Members
+
+This is a community-driven club where collaboration thrives. Meet our current core members:
+
+## Office Bearers
+
+- Adil bin Haris Khan
+- Reshma G.V.S.
+- Vedas Kudalkar
+
+## AI & ML Team
+
+- Rajagopal Somaskandan
+- S Sahaya Sherin
+- Anto Jeffrin G
+- Deepak B O
+- Anto Edison
+- K Mekhala
+- Karanam Poorna Prisha
+
+## Data Science & Analytics Team
+
+- Pracheetha R
+- Abhilasha Modak
+- Divyanshu Shekhar
+- Yuthish Krishnan R
+
+## Cybersecurity Team
+
+- Hanshika Singh
+- Veeraragavan S
+
+## Cloud & DevOps Team
+
+- Ram Siddesh M
+- Raghav Rawal
+- Vignesh B
+- Geo Sovi
+- Srinika
+- Vijay Antony A
+- G Rupasri
+
+## Web & App Dev Team
+
+- Sreenithin
+- Adhik Igthishaam
+- Archita S Nair
+- Bryson Sam
+
+Want to be featured here? Contribute to the club and submit a request via `members.md`!

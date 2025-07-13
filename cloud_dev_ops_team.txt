@@ -1,0 +1,19 @@
+# ☁️ Cloud + DevOps Team
+
+Welcome to the Cloud & DevOps Team of the Microsoft Club!
+
+## 🔧 What We Do
+We build infrastructure, automate deployments, and introduce members to cloud-native development using platforms like Azure, AWS, and GCP.
+
+## 🔥 Activities
+- Deploy apps using Kubernetes and Docker
+- Set up CI/CD pipelines
+- Host tutorials on infrastructure as code (Terraform, GitHub Actions)
+
+## 🌍 Skills You Can Gain
+- Cloud architecture & services
+- Continuous integration & delivery
+- Monitoring and scaling
+- DevSecOps principles
+
+Explore how tech works behind the scenes and scale your knowledge with us!

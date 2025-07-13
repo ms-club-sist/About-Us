@@ -1,0 +1,19 @@
+# 🔐 Cybersecurity Team
+
+Welcome to the Cybersecurity Team of the Microsoft Club!
+
+## 🛡️ What We Do
+We protect systems, learn security principles, and foster awareness on secure coding, penetration testing, and digital safety.
+
+## 🔍 Activities
+- Conduct Capture The Flag (CTF) competitions
+- Simulate cyberattacks and defenses
+- Run workshops on encryption, ethical hacking, and network security
+
+## 🧠 Skills You Can Gain
+- Vulnerability assessment
+- Secure development practices
+- Cyber threat analysis
+- Forensics and auditing
+
+If security excites you, come hack ethically with us!

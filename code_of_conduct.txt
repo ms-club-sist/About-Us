@@ -1,0 +1,18 @@
+# 📜 Code of Conduct
+
+All participants must adhere to our Code of Conduct. We aim to provide a harassment-free and inclusive experience for everyone.
+
+## Expected Behavior
+- Be respectful and considerate  <!-- Treat all members with dignity and foster a positive environment -->
+- Collaborate and support fellow members  <!-- Teamwork and assistance are encouraged for mutual growth -->
+- Provide constructive feedback  <!-- Ensure suggestions are helpful and not discouraging -->
+
+## Unacceptable Behavior
+- Harassment, bullying, or discrimination  <!-- Zero tolerance for actions that demean or threaten others -->
+- Inappropriate or offensive language/content  <!-- Includes slurs, hate speech, or explicit material -->
+- Disrespecting community members or organizers  <!-- Undermining authority or disrupting events is unacceptable -->
+
+## Reporting Issues
+If you witness or experience behavior that violates this code, please contact a club officer or email us at microsoftclub.sathyabama@gmail.com.  <!-- Confidential support is available to handle misconduct -->
+
+Violations may result in removal from the community. We appreciate your cooperation in maintaining a safe and welcoming environment!  <!-- Helps ensure a safe space for all members -->

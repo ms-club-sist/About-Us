@@ -1,0 +1,19 @@
+# 📊 Data Science Team
+
+Welcome to the Data Science Team of the Microsoft Club!
+
+## 📈 What We Do
+We turn data into decisions! From statistical analysis to real-world business intelligence and visualization.
+
+## 🧪 Activities
+- Hands-on sessions with Python, Pandas, Power BI
+- Host datathons and story-telling challenges
+- Create real datasets and dashboards
+
+## 💡 Skills You Can Gain
+- Exploratory Data Analysis (EDA)
+- Visualization with Power BI, Matplotlib
+- Predictive analytics
+- SQL and data wrangling
+
+Turn raw data into powerful insights—join the team!
