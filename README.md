@@ -16,7 +16,7 @@ This repository serves as the central hub for all things related to the Microsof
 - **`CONTRIBUTING.txt`**: [Contributing Guidelines](contributing.txt)  
 - **`CODE_OF_CONDUCT.txt`**: [Community Code of Conduct](code_of_conduct.txt)  
 - **`LICENSE`**: [View License](license.txt)  
-- **`AI_ML_Team.txt`**: [AI & ML Team](ai_ml_team.txt)  
+- **`AI_ML_Team`**: [AI & ML Team](https://github.com/ms-club-sist/AI_ML_Team)  
 - **`Cloud_DevOps_Team.txt`**: [Cloud & DevOps Team](cloud_dev_ops_team.txt)  
 - **`Cybersecurity_Team.txt`**: [Cybersecurity Team](cybersecurity_team.txt)  
 - **`Data_Science_Team.txt`**: [Data Science Team](data_science_team.txt)  
